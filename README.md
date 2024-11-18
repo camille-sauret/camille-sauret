@@ -11,9 +11,9 @@
 
 ## 📂 Projets Principaux
 Voici quelques-uns de mes projets les plus importants :
-1. **[Mon Cv](https://github.com/camille-sauret/job1.git)**: Brève description du projet.
-2. **[Nom du Projet 2](lien_vers_projet)**: Brève description du projet.
-3. **[Nom du Projet 3](lien_vers_projet)**: Brève description du projet.
+1. **[Mon Cv]()**: Brève description du projet.
+2. **[Bloom petals](https://github.com/camille-sauret/job1.git)**: Création d'un site avec l'utilisation d'HTML 5 et CSS.
+3. **[Les olympiens](lien_vers_projet)**: Brève description du projet.
 4. **[Nom du Projet 4](lien_vers_projet)**: Brève description du projet.
 
 ## 📊 Statistiques GitHub
