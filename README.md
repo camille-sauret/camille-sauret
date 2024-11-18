@@ -13,7 +13,7 @@
 Voici quelques-uns de mes projets les plus importants :
 1. **[Mon Cv](https://github.com/camille-sauret/Mon-cv.git)**: Premier projet avec l'utilisation d'HTML 5 et CSS.
 2. **[Bloom petals](https://github.com/camille-sauret/job1.git)**: Création d'un site avec HTML 5 et CSS.
-3. **[Les olympiens](lien_vers_projet)**: Premier projet d'equipe.
+3. **[Les olympiens](https://github.com/camille-sauret/les-olympiens.git)**: Premier projet d'equipe, creation d'un fansite.
 4. **[Nom du Projet 4](lien_vers_projet)**: Brève description du projet.
 
 ## 📊 Statistiques GitHub
