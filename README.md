@@ -1,8 +1,9 @@
-![image de presentation](https://tse1.mm.bing.net/th?id=OIG1.l2WTNLar3AVjQcJxtpsC&pid=ImgGn)
-
 # Bienvenue sur mon GitHub 👋 
 
 ## Qui suis-je ? Je suis Camille SAURET, un développeur passionné à la recherche d'une alternance. Avec une solide expérience en communication, je suis motivé par l'innovation et l'amélioration continue.
+![image de presentation](https://tse1.mm.bing.net/th?id=OIG1.l2WTNLar3AVjQcJxtpsC&pid=ImgGn)
+
+
 
 ## 🏆 Réalisations et Certifications
 - **[Certification X]**
