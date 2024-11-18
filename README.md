@@ -3,13 +3,15 @@
 ## Qui suis-je ? Je suis Camille SAURET, un développeur passionné à la recherche d'une alternance. Avec une solide expérience en communication, je suis motivé par l'innovation et l'amélioration continue.
 <img style="height:500px; width:1000px;" src="https://tse1.mm.bing.net/th?id=OIG1.l2WTNLar3AVjQcJxtpsC&pid=ImgGn" >
 
-## Langages et outils:
-<p align="left">alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Compétences
 
-## 🏆 Réalisations et Certifications
-- **[Certification X]**
-- **[Badge Y]**
-- **Contributions open source sur [Projet Z]**
+- **Langages** :   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Outils** :    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+   ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ## 📂 Projets Principaux
 Voici quelques-uns de mes projets les plus importants :
@@ -19,7 +21,10 @@ Voici quelques-uns de mes projets les plus importants :
 4. **[Nom du Projet 4](lien_vers_projet)**: Brève description du projet.
 
 ## 📊 Statistiques GitHub
-![Vos Statistiques GitHub](URL_pour_l'image_de_statistiques)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camille-sauret&show_icons=true&locale=en&layout=compact" alt="camille-sauret" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camille-sauret&show_icons=true&locale=en" alt="camille-sauret" /></p>
 
 ## 🔗 Retrouvez-moi sur
 - **[LinkedIn](lien_vers_profile)**: Connectez-vous avec moi pour discuter.
