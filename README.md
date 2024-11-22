@@ -27,7 +27,7 @@ Voici quelques-uns de mes projets les plus importants :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camille-sauret&show_icons=true&locale=en" alt="camille-sauret" /></p>
 
 ## 🔗 Retrouvez-moi sur
-- **[LinkedIn](www.linkedin.com/in/camille-sauret-101aa0309)**: Connectez-vous avec moi pour discuter.
+- **[LinkedIn](https://www.linkedin.com/in/camille-sauret-101aa0309)**: Connectez-vous avec moi pour discuter.
 - **[Portfolio]( https://camille-sauret.github.io/portfolio/)**: Découvrez plus sur mon travail.
 
 Merci de visiter mon profil !
