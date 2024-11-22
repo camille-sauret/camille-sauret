@@ -27,9 +27,8 @@ Voici quelques-uns de mes projets les plus importants :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camille-sauret&show_icons=true&locale=en" alt="camille-sauret" /></p>
 
 ## 🔗 Retrouvez-moi sur
-- **[LinkedIn](lien_vers_profile)**: Connectez-vous avec moi pour discuter.
-- **[Twitter](lien_vers_profile)**: Suivez-moi pour des mises à jour régulières.
-- **[Portfolio](lien_vers_portfolio)**: Découvrez plus sur mon travail.
+- **[LinkedIn](www.linkedin.com/in/camille-sauret-101aa0309)**: Connectez-vous avec moi pour discuter.
+- **[Portfolio](file:///C:/Users/camil/Documents/Ecole%20la%20plateforme/projets/Githup/portfolio/portfolio/portfolio.html)**: Découvrez plus sur mon travail.
 
 Merci de visiter mon profil !
 <!--
