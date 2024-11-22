@@ -28,7 +28,7 @@ Voici quelques-uns de mes projets les plus importants :
 
 ## 🔗 Retrouvez-moi sur
 - **[LinkedIn](www.linkedin.com/in/camille-sauret-101aa0309)**: Connectez-vous avec moi pour discuter.
-- **[Portfolio](file:///C:/Users/camil/Documents/Ecole%20la%20plateforme/projets/Githup/portfolio/portfolio/portfolio.html)**: Découvrez plus sur mon travail.
+- **[Portfolio]( https://camille-sauret.github.io/portfolio/)**: Découvrez plus sur mon travail.
 
 Merci de visiter mon profil !
 <!--
